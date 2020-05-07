@@ -1,0 +1,2 @@
+# Shotgun
+Noob repository
